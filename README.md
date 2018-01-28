@@ -8,7 +8,7 @@ After devision it will print,
 			number of hosts 
 of the smaller subnet.
 
-
+Script language: bash
 
 
 
